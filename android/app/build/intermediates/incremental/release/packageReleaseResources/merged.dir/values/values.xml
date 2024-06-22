@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="react_native_dev_server_port">8081</integer>
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <string name="app_name">Test Tell Arnie</string>
+    <string name="gcm_defaultSenderId" translatable="false">337955144908</string>
+    <string name="google_api_key" translatable="false">AIzaSyAFmu8gZ5W4-Bj_IQoTEs-OywSXXUuq4rk</string>
+    <string name="google_app_id" translatable="false">1:337955144908:android:345b527009e904ef21ae69</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAFmu8gZ5W4-Bj_IQoTEs-OywSXXUuq4rk</string>
+    <string name="google_storage_bucket" translatable="false">tellarnie-app.appspot.com</string>
+    <string name="project_id" translatable="false">tellarnie-app</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+           <item name="android:textColor">#000000</item>
+        <item name="android:forceDarkAllowed">false</item>
+     
+    </style>
+</resources>

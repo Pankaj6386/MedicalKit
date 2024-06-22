@@ -1,0 +1,6 @@
+module Pods_ProjectSetup {
+  umbrella header "Pods-ProjectSetup-umbrella.h"
+
+  export *
+  module * { export * }
+}

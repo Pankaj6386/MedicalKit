@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">337955144908</string>
+    <string name="google_api_key" translatable="false">AIzaSyAFmu8gZ5W4-Bj_IQoTEs-OywSXXUuq4rk</string>
+    <string name="google_app_id" translatable="false">1:337955144908:android:345b527009e904ef21ae69</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAFmu8gZ5W4-Bj_IQoTEs-OywSXXUuq4rk</string>
+    <string name="google_storage_bucket" translatable="false">tellarnie-app.appspot.com</string>
+    <string name="project_id" translatable="false">tellarnie-app</string>
+</resources>
